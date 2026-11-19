@@ -1,0 +1,6 @@
+Search lag (weeks),Pearson mean r,Pearson % positive,Pearson sig. (n),Spearman mean r,Spearman % positive,Spearman sig. (n),Expected by chance
+0,0.054,70.0,55,0.058,70.2,60,24.9
+1,0.016,56.5,29,0.021,57.1,43,24.9
+2,-0.024,45.3,35,-0.022,43.3,47,24.9
+3,-0.013,44.9,28,-0.018,44.7,29,24.9
+4,0.018,59.8,24,0.01,53.1,26,24.9
