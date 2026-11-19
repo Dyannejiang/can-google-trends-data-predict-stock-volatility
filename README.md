@@ -20,8 +20,8 @@ changes in realized volatility (mean r ≈ 0.05; 70% of companies positive;
 ├── data/
 │   ├── raw/            # sp500 list, 10-K text, Trends CSVs, price downloads
 │   └── processed/      # descriptions + TF-IDF terms, weekly merged panel
-├── figures/            # per-company plots, Figure 1
-├── results/            # per-company correlation tables (CSV)
+├── figures/            # figures
+├── outputs/            # per-company plots
 └── report/             # final PDF/LaTeX
 
 ## Data sources
