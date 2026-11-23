@@ -19,15 +19,15 @@ changes in realized volatility (mean r ≈ 0.05; 70% of companies positive;
 │   ├── finalproject_part1.ipynb
 │   └── finalproject_part2.ipynb
 ├── data/
-│   ├── analysis/            # output from finalproject_part1.ipynb,
-│   ├── analysisfolder/      # output from finalproject_part2.ipynb,
-│   ├── googletrends/        # output from finalproject_part1.ipynb,
-│   ├── googletrendsplot/    # output from finalproject_part1.ipynb,
-│   ├── results/             # output from finalproject_part2.ipynb,
-│   ├── .DS_Store            # output from finalproject_part2.ipynb,
-│   └── s&p500list.html      # output from finalproject_part1.ipynb,
-├── figures/            # figures
-├── outputs/            # per-company plots
+│   ├── analysis/            # output from finalproject_part1.ipynb, [FILL DESCRIPTION]
+│   ├── analysisfolder/      # output from finalproject_part2.ipynb, [FILL DESCRIPTION]
+│   ├── googletrends/        # output from finalproject_part1.ipynb, [FILL DESCRIPTION]
+│   ├── googletrendsplot/    # output from finalproject_part1.ipynb, [FILL DESCRIPTION]
+│   ├── results/             # output from finalproject_part2.ipynb, [FILL DESCRIPTION]
+│   ├── .DS_Store            # output from finalproject_part2.ipynb, [FILL DESCRIPTION]
+│   └── s&p500list.html      # output from finalproject_part1.ipynb, [FILL DESCRIPTION]
+├── figures/            # output from finalproject_part2.ipynb, figures created
+├── outputs/            # output from finalproject_part2.ipynb, per-company plots
 └── report/             # final PDF/LaTeX
 
 ## Data sources
