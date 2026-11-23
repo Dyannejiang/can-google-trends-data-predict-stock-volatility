@@ -13,6 +13,7 @@ changes in realized volatility (mean r ≈ 0.05; 70% of companies positive;
 (1–4 weeks) show no consistent lead. See `report/` for the full write-up.
 
 ## Repository layout
+# FOR SOME REASON THIS LOOKS CONFUSING IN THE README DISLAY BUT WHEN ACTUALLY OPENING THE TEXT IT IS MUCH CLEARER
 ├── README.md
 ├── notebooks/
 │   ├── finalproject_part1.ipynb
