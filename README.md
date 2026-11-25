@@ -1,6 +1,6 @@
 # Can Google Trends Data Predict Stock Volatility?
 
-<img src="https://github.com/Dyannejiang/can-google-trends-data-predict-stock-volatility/blob/main/outputs/corr_figure.png" width="50%"/>
+<img src="https://github.com/Dyannejiang/can-google-trends-data-predict-stock-volatility/blob/main/outputs/corr_figure.png"/>
 
 > Keywords: Google Trends, Stock Volatility, Yahoo Finance, TF-IDF, Pearson, Spearman, Lag, Predictability, S&P500, Finance, Search Data
 
